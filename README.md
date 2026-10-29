@@ -36,8 +36,8 @@ The draft year is treated as season one. Therefore, the retention outcome measur
 
 All-Star selections are included in the dashboard as retrospective context only. They are not a model target because the number of All-Stars is too small for a reliable standalone prediction model in this dataset.
 
-- **Training classes:** 2018–2024
-- **Prediction classes:** 2025–2026
+- **Training classes:** 2018-2024
+- **Prediction classes:** 2025-2026
 - **Training sample:** 222 draftees
 - **Observed retention rate:** 51%
 
