@@ -94,7 +94,7 @@ The final published results should be based on verified fold assignments and cor
 
 ## Results
 
-### Stage 1 — Early-career retention
+### Stage 1 - Early-career retention
 
 *Current estimates; refresh after validating the grouped folds and classification metrics.*
 
@@ -108,7 +108,7 @@ The final published results should be based on verified fold assignments and cor
 
 The current results suggest that draft position captures a substantial amount of the signal associated with early-career retention. The important follow-up is whether college statistics are more useful for particular players or draft ranges, even when they do not improve the overall metric.
 
-### Stage 2 — Production among retained players
+### Stage 2 - Production among retained players
 
 *Current estimates; refresh after validating the grouped folds and evaluation metrics.*
 
