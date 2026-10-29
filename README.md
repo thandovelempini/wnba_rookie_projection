@@ -1,6 +1,6 @@
 # WNBA Rookie Projection
 
-**Can college statistics tell us which WNBA draftees will stick in the league—and how well they'll perform if they do?**
+**Can college statistics tell us which WNBA draftees will stick in the league-and how well they'll perform if they do?**
 
 This project investigates two questions: which WNBA draftees return to the league in their second or third season, and which players go on to produce once they establish themselves. Using NCAA women's college box scores, I build statistical models in **R** and compare their predictions against draft position. The results are explored in an interactive **Tableau Public** dashboard.
 
@@ -21,7 +21,7 @@ This project investigates two questions: which WNBA draftees return to the leagu
 - **Future stars are a descriptive check, not the prediction target.** Of the 21 All-Stars identified in the training classes, 17 were top-seven picks. This provides context for how draft position relates to elite outcomes without treating a small group of stars as a separate modelling target.
 - **A prospective prediction to investigate:** Madina Okot was assigned a 63% retention probability by the draft-slot model and 88% by the combined model. This is a model estimate, not a verified outcome.
 
-These comparisons are intended to investigate whether college statistics add useful information beyond draft position—not to suggest that a model can replace scouting or explain every player's career.
+These comparisons are intended to investigate whether college statistics add useful information beyond draft position-not to suggest that a model can replace scouting or explain every player's career.
 
 ## Research questions and outcomes
 
