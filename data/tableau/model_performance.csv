@@ -1,0 +1,40 @@
+Analysis,Model,Metric,Value,Std Error,Higher Is Better
+Early-career retention - all picks,Draft slot only,Accuracy,0.7511421084259369,0.03113098812270234,TRUE
+Early-career retention - all picks,Draft slot only,Brier score,0.16022249577634817,0.01537843847485963,FALSE
+Early-career retention - all picks,Draft slot only,Log loss,0.5029826464529317,0.04996875682898268,FALSE
+Early-career retention - all picks,Draft slot only,PR-AUC,0.8637731799743905,0.03831860184418819,TRUE
+Early-career retention - all picks,Draft slot only,AUC,0.8613715454974162,0.02651524842587115,TRUE
+Early-career retention - all picks,Draft slot + college stats,Accuracy,0.7590371665401928,0.03303272718196445,TRUE
+Early-career retention - all picks,Draft slot + college stats,Brier score,0.1638486948078561,0.01706217183139926,FALSE
+Early-career retention - all picks,Draft slot + college stats,Log loss,0.5090459592329856,0.05141335582180222,FALSE
+Early-career retention - all picks,Draft slot + college stats,PR-AUC,0.863342249385291,0.04025402303628502,TRUE
+Early-career retention - all picks,Draft slot + college stats,AUC,0.8529433935348768,0.02963457311434373,TRUE
+Early-career retention - all picks,College stats only,Accuracy,0.7081600549007144,0.02668905910860155,TRUE
+Early-career retention - all picks,College stats only,Brier score,0.1935303481135362,0.01459753391821181,FALSE
+Early-career retention - all picks,College stats only,Log loss,0.5729393153969489,0.03602773378673102,FALSE
+Early-career retention - all picks,College stats only,PR-AUC,0.8082843144084384,0.05186277212303154,TRUE
+Early-career retention - all picks,College stats only,AUC,0.7999651003282554,0.04200243871275301,TRUE
+Early-career retention - rounds 2-3,Draft slot only,Accuracy,0.6556895485466914,0.04268717282430357,TRUE
+Early-career retention - rounds 2-3,Draft slot only,Brier score,0.1976394409699923,0.01538979403217392,FALSE
+Early-career retention - rounds 2-3,Draft slot only,Log loss,0.5734857186989534,0.0334502379547492,FALSE
+Early-career retention - rounds 2-3,Draft slot only,PR-AUC,0.5384451729317176,0.1056303145209897,TRUE
+Early-career retention - rounds 2-3,Draft slot only,AUC,0.7320795567644307,0.05388372938963002,TRUE
+Early-career retention - rounds 2-3,Draft slot + college stats,Accuracy,0.6556895485466914,0.04268717282430357,TRUE
+Early-career retention - rounds 2-3,Draft slot + college stats,Brier score,0.19783279714017168,0.01534160028277977,FALSE
+Early-career retention - rounds 2-3,Draft slot + college stats,Log loss,0.5739190649892147,0.03335885490716105,FALSE
+Early-career retention - rounds 2-3,Draft slot + college stats,PR-AUC,0.5384451729317176,0.1056303145209897,TRUE
+Early-career retention - rounds 2-3,Draft slot + college stats,AUC,0.7320795567644307,0.05388372938963002,TRUE
+Early-career retention - rounds 2-3,College stats only,Accuracy,0.688126159554731,0.0431008137069562,TRUE
+Early-career retention - rounds 2-3,College stats only,Brier score,0.222306185728666,0.01758817379917787,FALSE
+Early-career retention - rounds 2-3,College stats only,Log loss,0.6390020017091358,0.03757884889692809,FALSE
+Early-career retention - rounds 2-3,College stats only,PR-AUC,0.4909070646941848,0.06618464057286326,TRUE
+Early-career retention - rounds 2-3,College stats only,AUC,0.6027313489498364,0.07509122708063073,TRUE
+Impact among retained players,Draft slot only,MAE,2.4530406899038386,0.22523150108084392,FALSE
+Impact among retained players,Draft slot only,RMSE,3.057230815240545,0.29734132761184406,FALSE
+Impact among retained players,Draft slot only,R-squared,0.310087875986955,0.069998954505888,TRUE
+Impact among retained players,Draft slot + college stats,MAE,2.4209511810390367,0.18908193340192456,FALSE
+Impact among retained players,Draft slot + college stats,RMSE,2.914914227853154,0.2285314933920203,FALSE
+Impact among retained players,Draft slot + college stats,R-squared,0.3210028179846885,0.05454413185987818,TRUE
+Impact among retained players,College stats only,MAE,2.335521511413689,0.140187031052745,FALSE
+Impact among retained players,College stats only,RMSE,2.80110871060834,0.11316903930986363,FALSE
+Impact among retained players,College stats only,R-squared,0.3361781016719931,0.0775655004419292,TRUE

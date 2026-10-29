@@ -1,0 +1,291 @@
+draft_year,pick,player,college,athlete_id,method,espn_team
+2018,1,A'ja Wilson,South Carolina,3149391,name + school,South Carolina Gamecocks
+2018,2,Kelsey Mitchell,Ohio State,3142191,name + school,Ohio State Buckeyes
+2018,3,Diamond DeShields,Tennessee,3058902,name + school,Tennessee Lady Volunteers
+2018,4,Gabby Williams,UConn,3142328,name + school,UConn Huskies
+2018,5,Jordin Canada,UCLA,3142250,name + school,UCLA Bruins
+2018,6,Azura Stevens,UConn,3142010,name + school,UConn Huskies
+2018,7,Ariel Atkins,Texas,3146151,name + school,Texas Longhorns
+2018,8,Victoria Vivians,Mississippi State,3142948,name + school,Mississippi State Bulldogs
+2018,9,Lexie Brown,Duke,3058892,name + school,Duke Blue Devils
+2018,10,Kia Nurse,UConn,3142327,name + school,UConn Huskies
+2018,12,Marie Gulich,Oregon State,3151645,name + school,Oregon State Beavers
+2018,13,Jaime Nared,Tennessee,3143136,name + school,Tennessee Lady Volunteers
+2018,14,Stephanie Mavunga,Ohio State,3058900,name + school,Ohio State Buckeyes
+2018,15,Monique Billings,UCLA,3142255,name + school,UCLA Bruins
+2018,16,Kristy Wallace,Baylor,3156318,name + school,Baylor Bears
+2018,18,Loryn Goodwin,Oklahoma State,18090,name + school,Oklahoma State Cowgirls
+2018,19,Myisha Hines-Allen,Louisville,3142055,name + school,Louisville Cardinals
+2018,20,Tyler Scaife,Rutgers University,3079415,name + school,Rutgers Scarlet Knights
+2018,22,Mercedes Russell,Tennessee,3056672,name + school,Tennessee Lady Volunteers
+2018,23,Shakayla Thomas,Florida State,3142022,name + school,Florida State Seminoles
+2018,24,Kahlia Lawrence,Mercer University,3144171,name + school,Mercer Bears
+2018,25,Raigyne Louis,LSU,3056654,name + school,LSU Tigers
+2018,26,Imani Wright,Florida State,3054094,name + school,Florida State Seminoles
+2018,27,Mackenzie Engram,Georgia,3142899,name + school,Georgia Lady Bulldogs
+2018,28,Amarah Coleman,DePaul,3142123,name + school,DePaul Blue Demons
+2018,29,Teana Muldrow,West Virginia,3066473,name + school,West Virginia Mountaineers
+2018,30,Natalie Butler,George Mason,3055069,name + school,George Mason Patriots
+2018,31,Rebecca Greenwell,Duke,18759,name + school,Duke Blue Devils
+2018,32,Jill Barta,Gonzaga,3156496,name + school,Gonzaga Bulldogs
+2018,33,Mikayla Cowling,California,3142231,name + school,California Golden Bears
+2018,34,Leslie Robinson,Princeton,3142616,name + school,Princeton Tigers
+2018,36,Carlie Wagner,Minnesota,3142165,name + school,Minnesota Golden Gophers
+2019,1,Jackie Young,Notre Dame,4065870,name + school,Notre Dame Fighting Irish
+2019,2,AD Durr,Louisville,3904553,name + school,Louisville Cardinals
+2019,3,Teaira McCowan,Mississippi State,3913903,name + school,Mississippi State Bulldogs
+2019,4,Katie Lou Samuelson,UConn,3917453,name + school,UConn Huskies
+2019,5,Arike Ogunbowale,Notre Dame,3904577,name + school,Notre Dame Fighting Irish
+2019,6,Napheesa Collier,UConn,3917450,name + school,UConn Huskies
+2019,7,Kalani Brown,Baylor,3916514,name + school,Baylor Bears
+2019,8,Alanna Smith,Stanford,3913881,name + school,Stanford Cardinal
+2019,9,Kristine Anigwe,California,3913868,name + school,California Golden Bears
+2019,10,Kiara Leslie,NC State,3142149,name + school,NC State Wolfpack
+2019,11,Brianna Turner,Notre Dame,3142086,name + school,Notre Dame Fighting Irish
+2019,13,Sophie Cunningham,Missouri,3907781,name + school,Missouri Tigers
+2019,15,Chloe Jackson,Baylor,3142082,name + school,Baylor Bears
+2019,16,Jessica Shepard,Notre Dame,3906949,name + school,Notre Dame Fighting Irish
+2019,17,Megan DiLeo,Iowa,3934218,name + school,Iowa Hawkeyes
+2019,18,Natisha Hiedeman,Marquette,3906753,name + school,Marquette Golden Eagles
+2019,19,Marina Mabrey,Notre Dame,3904576,name + school,Notre Dame Fighting Irish
+2019,20,Cierra Dillard,Buffalo,3142386,name + school,Buffalo Bulls
+2019,21,Bridget Carleton,Iowa State,3906972,name + school,Iowa State Cyclones
+2019,22,Kennedy Burke,UCLA,3922628,name + school,UCLA Bruins
+2019,23,Maite Cazorla,Oregon,3907713,name + school,Oregon Ducks
+2019,24,Anriel Howard,Mississippi State,3906306,name + school,Mississippi State Bulldogs
+2019,25,Paris Kea,UNC,3143149,name only,North Carolina Tar Heels
+2019,26,Megan Huff,Utah,3164610,name + school,Utah Utes
+2019,28,Caliya Robinson,Georgia,3906312,name + school,Georgia Lady Bulldogs
+2019,29,Morgan Bertsch,UC-Davis,3143510,name + school,UC Davis Aggies
+2019,30,Kenisha Bell,Minnesota,3142297,name + school,Minnesota Golden Gophers
+2019,32,Arica Carter,Louisville,3142057,name + school,Louisville Cardinals
+2019,33,Regan Magarity,Virginia Tech,3142115,name + school,Virginia Tech Hokies
+2019,34,Sam Fuehring,Louisville,3904550,name + school,Louisville Cardinals
+2019,36,Macy Miller,South Dakota State,3142248,name + school,South Dakota State Jackrabbits
+2020,1,Sabrina Ionescu,Oregon,4066533,name + school,Oregon Ducks
+2020,2,Satou Sabally,Oregon,4281929,name + school,Oregon Ducks
+2020,3,Lauren Cox,Baylor,4066563,name + school,Baylor Bears
+2020,4,Chennedy Carter,Texas A&M,4280892,name + school,Texas A&M Aggies
+2020,5,Bella Alarie,Princeton,4068600,name + school,Princeton Tigers
+2020,6,Mikiah Herbert Harrigan,South Carolina,4065759,name + school,South Carolina Gamecocks
+2020,7,Tyasha Harris,South Carolina,4065760,name + school,South Carolina Gamecocks
+2020,8,Ruthy Hebard,Oregon,4066534,name + school,Oregon Ducks
+2020,9,Megan Walker,UConn,4281077,name + school,UConn Huskies
+2020,10,Jocelyn Willoughby,Virginia,4065879,name + school,Virginia Cavaliers
+2020,12,Jazmine Jones,Louisville,4065850,name + school,Louisville Cardinals
+2020,13,Kylee Shook,Louisville,4065849,name + school,Louisville Cardinals
+2020,14,Kathleen Doyle,Iowa,4068092,name + school,Iowa Hawkeyes
+2020,15,Leaonna Odom,Duke,4065818,name + school,Duke Blue Devils
+2020,16,Crystal Dangerfield,UConn,4066585,name + school,UConn Huskies
+2020,17,Brittany Brewer,Texas Tech,4068173,name + school,Texas Tech Lady Raiders
+2020,18,Te'a Cooper,Baylor,3907789,name + school,Baylor Bears
+2020,19,Joyner Holmes,Texas,4068161,name + school,Texas Longhorns
+2020,20,Beatrice Mompremier,Miami (FL),3916517,name only,Miami Hurricanes
+2020,23,Kaila Charles,Maryland,4065780,name + school,Maryland Terrapins
+2020,24,Jaylyn Agnew,Creighton,3938935,name + school,Creighton Bluejays
+2020,25,Mikayla Pivec,Oregon State,4066537,name + school,Oregon State Beavers
+2020,26,Erica Ogwumike,Rice University,3920714,name + school,Rice Owls
+2020,27,Kobi Thornton,Clemson,4065810,name + school,Clemson Tigers
+2020,28,Kamiah Smalls,James Madison University,4068346,name + school,James Madison Dukes
+2020,29,Stella Johnson,Rider University,4068890,name + school,Rider Broncs
+2020,30,Japreece Dean,UCLA,3914645,name + school,UCLA Bruins
+2020,31,Haley Gorecki,Duke,3904544,name + school,Duke Blue Devils
+2020,32,Kiah Gillespie,Florida State,3906831,name + school,Florida State Seminoles
+2020,33,Lauren Manis,Holy Cross,4068259,name + school,Holy Cross Crusaders
+2020,34,Tynice Martin,West Virginia,3910735,name + school,West Virginia Mountaineers
+2020,35,Juicy Landrum,Baylor,4066564,name + school,Baylor Bears
+2020,36,Sug Sutton,Texas,4068159,name + school,Texas Longhorns
+2021,1,Charli Collier,Texas,4398988,name + school,Texas Longhorns
+2021,3,Aari McDonald,Arizona,4066553,name + school,Arizona Wildcats
+2021,4,Kysre Gondrezick,West Virginia,4065820,name + school,West Virginia Mountaineers
+2021,5,Chelsea Dungee,Arkansas,4068110,name + school,Arkansas Razorbacks
+2021,6,Michaela Onyenwere,UCLA,4282173,name + school,UCLA Bruins
+2021,7,Jasmine Walker,Alabama,4065832,name + school,Alabama Crimson Tide
+2021,9,Rennia Davis,Tennessee,4280888,name + school,Tennessee Lady Volunteers
+2021,10,Stephanie Watts,UNC,3944151,name only,USC Trojans
+2021,11,Aaliyah Wilson,Texas A&M,4065692,name + school,Texas A&M Aggies
+2021,13,Dana Evans,Louisville,4281190,name + school,Louisville Cardinals
+2021,14,Destiny Slocum,Arkansas,4065781,name + school,Arkansas Razorbacks
+2021,16,Natasha Mack,Oklahoma State,4068042,name + school,Oklahoma State Cowgirls
+2021,17,DiDi Richards,Baylor,4281253,name + school,Baylor Bears
+2021,18,Kiana Williams,Stanford,4282168,name + school,Stanford Cardinal
+2021,19,Unique Thompson,Auburn,4280841,name + school,Auburn Tigers
+2021,20,DiJonai Carrington,Baylor,4066548,name + school,Baylor Bears
+2021,21,Micaela Kelly,Central Michigan University,4068917,name + school,Central Michigan Chippewas
+2021,22,Arella Guirantes,Rutgers University,4068178,name + school,Rutgers Scarlet Knights
+2021,23,N'dea Jones,Texas A&M,4280896,name + school,Texas A&M Aggies
+2021,24,Trinity Baptiste,Arizona,4069297,name + school,Arizona Wildcats
+2021,25,Valerie Higgins,University of the Pacific,4282045,name + school,Pacific Tigers
+2021,26,Chelsey Perry,University of Tennessee at Martin,4282471,name only,UT Martin Skyhawks
+2021,27,Lindsey Pulliam,Northwestern,4281237,name + school,Northwestern Wildcats
+2021,28,Ivana Raca,Wake Forest,4281231,name + school,Wake Forest Demon Deacons
+2021,30,Aleah Goodman,Oregon State,4282158,name + school,Oregon State Beavers
+2021,32,Ciera Johnson,Texas A&M,4065853,name + school,Texas A&M Aggies
+2021,33,Maya Caldwell,Georgia,4280850,name + school,Georgia Lady Bulldogs
+2021,35,Natalie Kucowski,Lafayette College,4281007,name + school,Lafayette Leopards
+2021,36,Kionna Jeter,Towson University,4400233,name + school,Towson Tigers
+2022,1,Rhyne Howard,Kentucky,4398674,name + school,Kentucky Wildcats
+2022,2,NaLyssa Smith,Baylor,4398776,name + school,Baylor Bears
+2022,3,Shakira Austin,Ole Miss,4398911,name + school,Ole Miss Rebels
+2022,4,Emily Engstler,Louisville,4398729,name + school,Louisville Cardinals
+2022,5,Nyara Sabally,Oregon,4398768,name + school,Oregon Ducks
+2022,6,Lexie Hull,Stanford,4398829,name + school,Stanford Cardinal
+2022,7,Veronica Burton,Northwestern,4398935,name + school,Northwestern Wildcats
+2022,8,Mya Hollingshed,Colorado,4281923,name + school,Colorado Buffaloes
+2022,9,Rae Burrell,Tennessee,4398764,name + school,Tennessee Lady Volunteers
+2022,10,Queen Egbo,Baylor,4398779,name + school,Baylor Bears
+2022,11,Kierstan Bell,Florida Gulf Coast,4433633,name + school,Florida Gulf Coast Eagles
+2022,12,Nia Clouden,Michigan State,4398921,name + school,Michigan State Spartans
+2022,13,Khayla Pointer,LSU,4280859,name + school,LSU Tigers
+2022,14,Christyn Williams,UConn,4398965,name + school,UConn Huskies
+2022,15,Naz Hillmon,Michigan,4398915,name + school,Michigan Wolverines
+2022,16,Kianna Smith,Louisville,4281919,name + school,Louisville Cardinals
+2022,17,Elissa Cunane,NC State,4398625,name + school,NC State Wolfpack
+2022,18,Lorela Cubaj,Georgia Tech,4281183,name + school,Georgia Tech Yellow Jackets
+2022,19,Olivia Nelson-Ododa,UConn,4398966,name + school,UConn Huskies
+2022,20,Destanni Henderson,South Carolina,4398751,name + school,South Carolina Gamecocks
+2022,21,Evina Westbrook,UConn,4280890,name + school,UConn Huskies
+2022,22,Kayla Jones,NC State,4281199,name + school,NC State Wolfpack
+2022,23,Aisha Sheppard,Virginia Tech,4281223,name + school,Virginia Tech Hokies
+2022,24,Jordan Lewis,Baylor,4065687,name + school,Baylor Bears
+2022,25,Meshya Williams-Holliday,Jackson State University,4065745,name + school,Jackson State Lady Tigers
+2022,26,Maya Dodson,Notre Dame,4282166,name + school,Notre Dame Fighting Irish
+2022,27,Amy Atwell,Hawaii,4068885,name + school,Hawai'i Rainbow Wahine
+2022,28,Hannah Sjerven,South Dakota,4068349,name + school,South Dakota Coyotes
+2022,30,Jasmine Dickey,University of Delaware,4399842,name + school,Delaware Blue Hens
+2022,31,Jazz Bond,University of North Florida,4399879,name + school,North Florida Ospreys
+2022,32,Macee Williams,IUPUI,4281963,name + school,IUPUI Jaguars
+2022,34,Ali Patberg,Indiana,3904578,name + school,Indiana Hoosiers
+2022,35,Faustine Aifuwa,LSU,4065738,name + school,LSU Tigers
+2022,36,Kiara Smith,Florida,4398629,name + school,Florida Gators
+2023,1,Aliyah Boston,South Carolina,4432831,name + school,South Carolina Gamecocks
+2023,2,Diamond Miller,Maryland,4433635,name + school,Maryland Terrapins
+2023,3,Maddy Siegrist,Villanova,4399415,name + school,Villanova Wildcats
+2023,4,Stephanie Soares,Iowa State,5106150,name + school,Iowa State Cyclones
+2023,5,Lou Lopez Sénéchal,UConn,4399114,name + school,UConn Huskies
+2023,6,Haley Jones,Stanford,4595910,name + school,Stanford Cardinal
+2023,7,Grace Berger,Indiana,4398899,name + school,Indiana Hoosiers
+2023,8,Laeticia Amihere,South Carolina,4432834,name + school,South Carolina Gamecocks
+2023,9,Jordan Horston,Tennessee,4432830,name + school,Tennessee Lady Volunteers
+2023,10,Zia Cooke,South Carolina,4432832,name + school,South Carolina Gamecocks
+2023,11,Abby Meyers,Maryland,4281402,name + school,Maryland Terrapins
+2023,13,Taylor Mikesell,Ohio State,4398912,name + school,Ohio State Buckeyes
+2023,15,Leigha Brown,Michigan,4398928,name + school,Michigan Wolverines
+2023,16,Dorka Juhász,UConn,4398938,name + school,UConn Huskies
+2023,17,LaDazhia Williams,LSU,4280886,name + school,LSU Tigers
+2023,18,Madi Williams,Oklahoma,4398883,name + school,Oklahoma Sooners
+2023,19,Ashley Joens,Iowa State,4398802,name + school,Iowa State Cyclones
+2023,20,Elena Tsineke,South Florida,4594531,name + school,South Florida Bulls
+2023,21,Dulcy Fankam Mendjiadeu,South Florida,4594527,name + school,South Florida Bulls
+2023,22,Alexis Morris,LSU,4281251,name + school,LSU Tigers
+2023,23,Kayana Traylor,Virginia Tech,4398947,name + school,Virginia Tech Hokies
+2023,24,Brea Beal,South Carolina,4432835,name + school,South Carolina Gamecocks
+2023,25,Victaria Saxton,South Carolina,4398752,name + school,South Carolina Gamecocks
+2023,26,Monika Czinano,Iowa,4398909,name + school,Iowa Hawkeyes
+2023,27,Destiny Harden,Miami (FL),4281329,name only,Miami Hurricanes
+2023,28,Taylor Soule,Virginia Tech,4398567,name + school,Virginia Tech Hokies
+2023,29,Kadi Sissoko,USC,4398731,name + school,USC Trojans
+2023,30,Okako Adika,USC,4703593,name + school,USC Trojans
+2023,31,Paige Robinson,Illinois State,5109176,name + school,Illinois State Redbirds
+2023,33,Jade Loville,Arizona,4400537,name + school,Arizona State Sun Devils
+2023,34,Ashten Prechtel,Stanford,4433634,name + school,Stanford Cardinal
+2023,35,Kseniya Malashka,Middle Tennessee,4399493,name + school,Middle Tennessee Blue Raiders
+2023,36,Brittany Davis,Alabama,4594178,name + school,Alabama Crimson Tide
+2024,1,Caitlin Clark,Iowa,4433403,name + school,Iowa Hawkeyes
+2024,2,Cameron Brink,Stanford,4433404,name + school,Stanford Cardinal
+2024,3,Kamilla Cardoso,South Carolina,4433405,name + school,South Carolina Gamecocks
+2024,4,Rickea Jackson,Tennessee,4433630,name + school,Tennessee Lady Volunteers
+2024,5,Jacy Sheldon,Ohio State,4432865,name + school,Ohio State Buckeyes
+2024,6,Aaliyah Edwards,UConn,4433408,name + school,UConn Huskies
+2024,7,Angel Reese,LSU,4433402,name + school,LSU Tigers
+2024,8,Alissa Pili,Utah,5105752,name + school,Utah Utes
+2024,11,Marquesha Davis,Ole Miss,4433661,name + school,Ole Miss Rebels
+2024,13,Brynna Maxwell,Gonzaga,4433675,name + school,Gonzaga Bulldogs
+2024,14,Nika Mühl,UConn,4433468,name + school,UConn Huskies
+2024,15,Celeste Taylor,Ohio State,4432864,name + school,Ohio State Buckeyes
+2024,16,Dyaisha Fair,Syracuse,4595236,name + school,Syracuse Orange
+2024,17,Esmery Martinez,Arizona,4433353,name + school,Arizona Wildcats
+2024,18,Kate Martin,Iowa,4398907,name + school,Iowa Hawkeyes
+2024,19,Taiyanna Jackson,Kansas,4898989,name + school,Kansas Jayhawks
+2024,21,Kaylynne Truong,Gonzaga,4433365,name + school,Gonzaga Bulldogs
+2024,22,Helena Pueyo,Arizona,4598223,name + school,Arizona Wildcats
+2024,23,Jessika Carter,Mississippi State,4398726,name + school,Mississippi State Bulldogs
+2024,24,Elizabeth Kitley,Virginia Tech,4433309,name + school,Virginia Tech Hokies
+2024,25,Charisma Osborne,UCLA,4433293,name + school,UCLA Bruins
+2024,26,Mackenzie Holmes,Indiana,4433643,name + school,Indiana Hoosiers
+2024,27,Leilani Correa,Florida,4595156,name + school,Florida Gators
+2024,28,McKenzie Forbes,USC,4398749,name + school,USC Trojans
+2024,29,Jaz Shelley,Nebraska,4433363,name + school,Nebraska Cornhuskers
+2024,31,Kiki Jefferson,Louisville,4594726,name + school,Louisville Cardinals
+2024,33,Ashley Owusu,Penn State,4433632,name + school,Penn State Lady Lions
+2024,34,Abbey Hsu,Columbia University,4594973,name + school,Columbia Lions
+2024,35,Kaitlyn Davis,USC,4433382,name + school,USC Trojans
+2024,36,Angel Jackson,Jackson State University,4432861,name + school,Jackson State Lady Tigers
+2025,1,Paige Bueckers,UConn,4433730,name + school,UConn Huskies
+2025,3,Sonia Citron,Notre Dame,4433524,name + school,Notre Dame Fighting Irish
+2025,4,Kiki Iriafen,USC,4898384,name + school,USC Trojans
+2025,6,Georgia Amoore,Kentucky,4704180,name + school,Kentucky Wildcats
+2025,7,Aneesah Morrow,LSU,4684384,name + school,LSU Tigers
+2025,8,Saniya Rivers,NC State,4433514,name + school,NC State Wolfpack
+2025,9,Sarah Ashlee Barker,Alabama,4703794,name + school,Alabama Crimson Tide
+2025,11,Hailey Van Lith,TCU,4433412,name + school,TCU Horned Frogs
+2025,12,Aziaha James,NC State,4433807,name + school,NC State Wolfpack
+2025,13,Aaliyah Nye,Alabama,4597509,name + school,Alabama Crimson Tide
+2025,14,Madison Scott,Ole Miss,4433416,name + school,Ole Miss Rebels
+2025,16,Maddy Westbeld,Notre Dame,4433424,name + school,Notre Dame Fighting Irish
+2025,17,Shyanne Sellers,Maryland,4433808,name + school,Maryland Terrapins
+2025,18,Te-Hina PaoPao,South Carolina,4433431,name + school,South Carolina Gamecocks
+2025,19,Makayla Timpson,Florida State,4433546,name + school,Florida State Seminoles
+2025,20,Bree Hall,South Carolina,4898383,name + school,South Carolina Gamecocks
+2025,21,Sania Feagin,South Carolina,4433795,name + school,South Carolina Gamecocks
+2025,22,Aicha Coulibaly,Texas A&M,4433433,name + school,Texas A&M Aggies
+2025,23,Lucy Olsen,Iowa,4433815,name + school,Iowa Hawkeyes
+2025,24,Dalayah Daniels,Washington,4433417,name + school,Washington Huskies
+2025,25,Rayah Marshall,USC,4433792,name + school,USC Trojans
+2025,26,Serena Sundell,Kansas State,4898994,name + school,Kansas State Wildcats
+2025,27,JJ Quinerly,West Virginia,4434015,name + school,West Virginia Mountaineers
+2025,28,Liatu King,Notre Dame,4596309,name + school,Notre Dame Fighting Irish
+2025,29,Madison Conner,TCU,4712562,name + school,TCU Horned Frogs
+2025,30,Kaitlyn Chen,UConn,4899328,name + school,UConn Huskies
+2025,31,Aaronette Vonleh,Baylor,4433519,name + school,Baylor Bears
+2025,32,Zaay Green,Alabama,4398766,name + school,Alabama Crimson Tide
+2025,33,Yvonne Ejim,Gonzaga,4703874,name + school,Gonzaga Bulldogs
+2025,34,Jordan Hobbs,Michigan,4898392,name + school,Michigan Wolverines
+2025,35,Harmoni Turner,Harvard University,4899316,name + school,Harvard Crimson
+2025,36,Taylor Thierry,Ohio State,4898400,name + school,Ohio State Buckeyes
+2025,37,Aubrey Griffin,UConn,4432844,name + school,UConn Huskies
+2026,1,Azzi Fudd,UConn,4433790,name + school,UConn Huskies
+2026,2,Olivia Miles,TCU,4433791,name + school,TCU Horned Frogs
+2026,4,Lauren Betts,UCLA,5105737,name + school,UCLA Bruins
+2026,5,Gabriela Jaquez,UCLA,4858656,name + school,UCLA Bruins
+2026,6,Kiki Rice,UCLA,4565505,name + school,UCLA Bruins
+2026,8,Flau'jae Johnson,LSU,4698736,name + school,LSU Tigers
+2026,9,Angela Dugalić,UCLA,4433411,name + school,UCLA Bruins
+2026,10,Raven Johnson,South Carolina,4433797,name + school,South Carolina Gamecocks
+2026,11,Cotie McMahon,Ole Miss,4583144,name + school,Ole Miss Rebels
+2026,13,Madina Okot,South Carolina,5108587,name + school,South Carolina Gamecocks
+2026,14,Taina Mair,Duke,5106222,name + school,Duke Blue Devils
+2026,15,Gianna Kneepkens,UCLA,4898898,name + school,UCLA Bruins
+2026,16,Marta Suárez,TCU,4704594,name + school,TCU Horned Frogs
+2026,18,Charlisse Leger-Walker,UCLA,4703609,name + school,UCLA Bruins
+2026,19,Cassandre Prosper,Notre Dame,5122345,name + school,Notre Dame Fighting Irish
+2026,20,Ta'Niya Latson,South Carolina,4609797,name + school,South Carolina Gamecocks
+2026,21,Latasha Lattimore,Ole Miss,4433517,name + school,Ole Miss Rebels
+2026,22,Teonni Key,Kentucky,4434020,name + school,Kentucky Wildcats
+2026,23,Ashlon Jackson,Duke,5106232,name + school,Duke Blue Devils
+2026,24,Chance Gray,Ohio State,5105729,name + school,Ohio State Buckeyes
+2026,25,Justine Pissott,Vanderbilt,4682855,name + school,Vanderbilt Commodores
+2026,28,Indya Nivar,UNC,5105740,name only,North Carolina Tar Heels
+2026,29,Janiah Barker,Tennessee,4565501,name + school,Tennessee Lady Volunteers
+2026,30,Darianna Littlepage-Buggs,Baylor,5106145,name + school,Baylor Bears
+2026,31,Zee Spearman,Tennessee,4682913,name + school,Tennessee Lady Volunteers
+2026,32,Tonie Morgan,Kentucky,4565515,name + school,Kentucky Wildcats
+2026,33,Serah Williams,UConn,5108550,name + school,UConn Huskies
+2026,34,Rori Harmon,Texas,4433523,name + school,Texas Longhorns
+2026,35,Amelia Hassett,Kentucky,5239080,name + school,Kentucky Wildcats
+2026,36,Charlise Dunn,Davidson,5107752,name + school,Davidson Wildcats
+2026,37,Taylor Bigby,TCU,4433798,name + school,TCU Horned Frogs
+2026,39,Grace VanSlooten,Michigan State,5105731,name + school,Michigan State Spartans
+2026,40,Jessica Timmons,Alabama,4433811,name + school,Alabama Crimson Tide
+2026,44,Jordan Obi,Kentucky,4705226,name + school,Kentucky Wildcats
+2026,45,Lani White,Utah,5105748,name + school,Utah Utes

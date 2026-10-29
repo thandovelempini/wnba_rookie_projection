@@ -1,0 +1,28 @@
+Stage,Feature,Effect,Absolute Effect,Direction,Is Draft Pick
+Early-career retention,Draft pick (log),-1.8700029181599729,1.8700029181599729,Negative,TRUE
+Early-career retention,Team rating,0.34264358204704853,0.34264358204704853,Positive,FALSE
+Early-career retention,Free throw %,0.20224738969526043,0.20224738969526043,Positive,FALSE
+Early-career retention,Rebounding,0.1349560284836126,0.1349560284836126,Positive,FALSE
+Early-career retention,3-point attempt rate,-0.1273294842736106,0.1273294842736106,Negative,FALSE
+Early-career retention,Offensive rebounding,0.09377993472423383,0.09377993472423383,Positive,FALSE
+Early-career retention,Turnovers,0.0925965893797034,0.0925965893797034,Positive,FALSE
+Early-career retention,True shooting %,0.06279289559702214,0.06279289559702214,Positive,FALSE
+Early-career retention,Defensive rebounding,0.04244217461144135,0.04244217461144135,Positive,FALSE
+Impact if retained,Draft pick (log),-1.4415430766539172,1.4415430766539172,Negative,TRUE
+Impact if retained,Scoring,0.8858851168793322,0.8858851168793322,Positive,FALSE
+Impact if retained,Effective FG%,0.5693357146837276,0.5693357146837276,Positive,FALSE
+Impact if retained,Scoring change (final year),-0.4175151330786444,0.4175151330786444,Negative,FALSE
+Impact if retained,Free throw %,-0.4018367925180768,0.4018367925180768,Negative,FALSE
+Impact if retained,Team rating,0.4010870277477024,0.4010870277477024,Positive,FALSE
+Impact if retained,Schedule strength,0.3199190782261403,0.3199190782261403,Positive,FALSE
+Impact if retained,Offensive rebounding,0.3193929563866127,0.3193929563866127,Positive,FALSE
+Impact if retained,Steals,0.2784323045505512,0.2784323045505512,Positive,FALSE
+Impact if retained,Free throw rate,0.2657254270131043,0.2657254270131043,Positive,FALSE
+Impact if retained,Minutes per game,-0.26151009439526274,0.26151009439526274,Negative,FALSE
+Impact if retained,Assist/turnover ratio,0.25218280010047184,0.25218280010047184,Positive,FALSE
+Impact if retained,Games played,0.16667743133205629,0.16667743133205629,Positive,FALSE
+Impact if retained,Usage change (final year),-0.15287458661864878,0.15287458661864878,Negative,FALSE
+Impact if retained,TS% change (final year),-0.14046348549286708,0.14046348549286708,Negative,FALSE
+Impact if retained,Minutes change (final year),-0.1331730794933236,0.1331730794933236,Negative,FALSE
+Impact if retained,Turnovers,-0.04685485062464236,0.04685485062464236,Negative,FALSE
+Impact if retained,Rebounding,0.00139633731284342,0.00139633731284342,Positive,FALSE
