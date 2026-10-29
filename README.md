@@ -6,7 +6,7 @@ This project investigates two questions: which WNBA draftees return to the leagu
 
 [**Explore the interactive dashboard on Tableau Public**]()
 
-![WNBA Rookie Projection dashboard preview]()
+![WNBA Rookie Projection dashboard overview](data/images/Overview.png)
 
 ---
 
