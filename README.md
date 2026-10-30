@@ -4,7 +4,7 @@
 
 This project investigates two questions: which WNBA draftees return to the league in their second or third season, and which players go on to produce once they establish themselves. Using NCAA women's college box scores, I build statistical models in **R** and compare their predictions against draft position. The results are explored in an interactive **Tableau Public** dashboard.
 
-[**Explore the interactive dashboard on Tableau Public**]()
+[**Explore the interactive dashboard on Tableau Public**](https://public.tableau.com/views/WNBARookieProjection/Stars?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![WNBA Rookie Projection dashboard overview](data/images/Overview.png)
 
